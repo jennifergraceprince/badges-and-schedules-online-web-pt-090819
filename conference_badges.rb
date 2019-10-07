@@ -1,6 +1,6 @@
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def badge_name(name)
+def badge_maker(name)
   return "Hello, my name is #{name}."
 end
 

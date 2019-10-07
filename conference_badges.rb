@@ -27,4 +27,4 @@ def printer(speakers)
     puts speaker_id
   end
   
-  assign_rooms(speakers)
+  assign_rooms(speakers).each do |speaker_id|

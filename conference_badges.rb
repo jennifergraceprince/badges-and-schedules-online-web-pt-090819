@@ -27,3 +27,4 @@ def printer(speakers)
     puts speaker_id
   end
   
+def 

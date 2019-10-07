@@ -27,4 +27,4 @@ def printer(speakers)
     puts speaker_id
   end
   
-  assign_rooms
+  assign_rooms(speakers)
